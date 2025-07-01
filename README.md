@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on FreeCodeCamp's backend engineering track
-- 🌱 I’m currently learning Backend Engineering
+- 🔭 I was working on FreeCodeCamp's backend engineering track
+- 🌱 I was learning Backend Engineering
 - 🤔 I’m looking for people who can mentor me
 - 💬 Ask me about Product Management
 - 📫 How to reach me: dodgeronquillo@gmail.com
